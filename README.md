@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# PLATAFORMA DE ENCONTROS PARA PRATICANTES DE AIRSOFT
 
-`CURSO`
+`ANÁLISE DE DESENVOLVIMENTO DE SISTEMA`
 
-`DISCIPLINA`
+`DESENVOLVIMENTO DE UM APLICAÇÃO INTERATIVA`
 
-`SEMESTRE`
+`EIXO 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolver uma plataforma com intuito de expandir a competição entre equipes, onde o usuário tem acesso a informações sobre a partida, pontuação e torneios, tornando possível competir com pessoas de vários lugares e expandindo a modalidade.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alexsander Amorim Kalil
+* Douglas Macedo da Silva
+* Rodrigo Charles Oliveira Cardoso
+* Tatiany Belém dos Santos
+* Thais Soares Alves da Silva Rossi
 
 ## Orientador
 
-* Nome completo do professor 1
+* Jose Wilson da Costa
 
 ## Instruções de utilização
 
