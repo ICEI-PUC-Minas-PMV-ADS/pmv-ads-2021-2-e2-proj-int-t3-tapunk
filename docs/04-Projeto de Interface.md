@@ -1,36 +1,57 @@
 
 # Projeto de Interface
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Dentre as preocupações para a montagem da interface do sistema, estabelecemos um foco em questões como simplificar a vida dos esportistas, sendo dinâmico, interativo e acessível e para diversos usuários. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 ## Diagrama de Fluxo
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o https://marvelapp.com/prototype/5e2jadg
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
-
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
-
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+![Diagrama de fluxos](/img/diagrama_fluxo.PNG)
 
 ## Wireframes
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto. As telas apresentam as estruturas Header, Navegator e o Footer em comum, apenas a Main que sofrerá alterações de informações, como demonstrado a seguir:
+•	Header- local onde são dispostos elementos fixos de identidade; 
+•	Navegator - apresenta os elementos de navegação secundária; 
+•	Main- apresenta informações importantes dependo da tela que usuário esteja navegando; 
+•	Footer – apresenta o acesso as redes sociais, termos de uso e políticas da empresa. 
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Diagrama de fluxos](/img/estrutura_padrao.PNG)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+### Tela - Home-Page
+A tela de home-Page com base na estrutura padrão, o Main traz a possiblidade de criar eventos e adicionar equipes e em destaque observaremos três equipes de acordo com o ranking nacional. 
+
+![Diagrama de fluxos](/img/home_page.PNG)
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+###Tela – Entrar
+Na tela de login o usuário poderá acessar uma área privada através do e-mail e senha, tendo a possibilidade de se cadastrar caso seja um usuário novo e solicitar nova senha caso tenha esquecido a mesma. O Header, Navegator e Footer apresentam os mesmos elementos da Home-Page. 
+
+![Diagrama de fluxos](/img/entrar.PNG)
+ 
+###Tela - Cadastrar
+A tela de cadastro o usuário de digita alguns dados pessoais e se classifica de acordo com a sua modalidade. O Header, Navegator e Footer apresentam os mesmos elementos da Home-Page.
+
+![Diagrama de fluxos](/img/cadastrar.PNG)
+ 
+###Tela - Sobre Airsoft
+Na tela Sobre o Airsoft traz informações essenciais sobre o esporte. O Header, Navegator e Footer apresentam os mesmos elementos da Home-Page.
+
+![Diagrama de fluxos](/img/sobre_airsoft.PNG)
+
+###Tela – Eventos Disponíveis
+Na tela Eventos disponíveis o usuário terá acesso aos eventos criados e disponíveis no momento para que ele possa se inscrever no mesmo. O Header, Navegator e Footer apresentam os mesmos elementos da Home-Page.
+
+![Diagrama de fluxos](/img/eventos_disponiveis.PNG)
+
+###Tela - Criar Eventos
+Nesta tela o usuário terá a possibilidade de criar um evento de Airsoft disponibilizando dados como endereço, data do evento e uma breve descrição sobre o evento. O Header, Navegator e Footer apresentam os mesmos elementos da Home-Page.
+
+![Diagrama de fluxos](/img/criar_eventos.PNG)
+
+###Tela - Adicionar Equipes
+Nesta tela o usuário informa dados sobre a equipe a ser adicionada para se inscreverem em eventos futuros. O Header, Navegator e Footer apresentam os mesmos elementos da Home-Page.
+
+![Diagrama de fluxos](/img/adicionar_equipes.PNG)
+
+###Tela - Veja Mais
+Nesta tela o usuário terá a possibilidade de visualizar mais equipes de acordo com sua classificação no Ranking Nacional por equipes. O Header, Navegator e Footer apresentam os mesmos elementos da Home-Page.
+
+![Diagrama de fluxos](/img/veja_mais.PNG)
