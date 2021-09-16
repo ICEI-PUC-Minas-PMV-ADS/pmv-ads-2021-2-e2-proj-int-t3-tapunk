@@ -29,7 +29,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 ### Requisitos Funcionais
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-![Requisitos funcionais](img/requisitos_funcinais.PNG)
+![Requisitos funcionais](img/requisitos_funcionais.PNG)
 
 ### Requisitos não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
@@ -44,4 +44,4 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 ## Diagrama de Casos de Uso
 O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa anterior.
 
-![Diagrama de casos de uso](img/diagrama_caso_usos.PNG)
+![Diagrama de casos de uso](img/diagrama_casos_uso.PNG)

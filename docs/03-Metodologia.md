@@ -5,17 +5,17 @@ A Metodologia reflete as definições do ferramental utilizado pelo grupo tanto 
 ## Relação de Ambientes de trabalho
 Os artefatos do projeto são criados com base nas diversas plataformas e a conexão dos ambientes com sua respectiva finalidade é introduzida na tabela abaixo.
 
-|     AMBIENTE                    |   PLATAFORMA   |                                     LINK DE ACESSO                                            |
-|---------------------------------|----------------|-----------------------------------------------------------------------------------------------|
-|Repositório de código fonte      |     GitHub     | > - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-tapunk/) |
-|Documentos do projeto            |     GitHub     | > - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-tapunk/) | 
-|Projeto de Interface e Wireframes|    MarvelApp   | > - [MarvelApp- interação](https://marvelapp.com/prototype/5e2jadg/)                          |
-|Gerenciamento do Projeto         |     Trello     | > - [Trello- kanban](https://trello.com/b/me7Z0Ltz/kanban-airsoft/)                           | 
+|     AMBIENTE                    |   PLATAFORMA E LINK DE ACESSO                                                             |
+|---------------------------------|-------------------------------------------------------------------------------------------|
+|Repositório de código fonte      | [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-tapunk/) |
+|Documentos do projeto            | [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-tapunk/) | 
+|Projeto de Interface e Wireframes| [MarvelApp](https://marvelapp.com/prototype/5e2jadg/)                                     |
+|Gerenciamento do Projeto         | [Trello](https://trello.com/b/me7Z0Ltz/kanban-airsoft/)                                   | 
 
 ## Gerenciamento de Projeto
 Optamos por utilizar o Git Flow para a gestão do código fonte do software desenvolvido pelo grupo. Desta maneira, conseguimos manter o controle do que está sendo produzido pela equipe, pois a manutenção pode ser realizada em branch, onde, ao mesmo tempo são corrigidas as falhas, implementando novas funcionalidades e total controle da funcionalidade do código. 
 
-![Personas](/img/git_flow.PNG)
+![Personas](img/git_flow.PNG)
     
 ## Gerenciamento de Projeto
 O grupo irá utilizar o Scrum, pois tem uma gestão ágil de desenvolvimento de software, onde o projeto pode ser divido em ciclos. Com isso, conseguimos planejar o tempo que levamos para finalizar cada etapa do projeto de modo produtivo e eficaz, diminuindo o impacto das alterações no fluxo do processo alcançando os objetivos definidos durante a etapa de planejamento.
@@ -39,6 +39,6 @@ Com a finalidade de organizar e distribuir as tarefas do projeto, a equipe está
 •	Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/me7Z0Ltz/kanban-airsoft e é apresentado no estado atual a seguir:
 
-![Personas](/img/kanban_trello.PNG)
+![Personas](img/kanban_trello.PNG)
 
 
