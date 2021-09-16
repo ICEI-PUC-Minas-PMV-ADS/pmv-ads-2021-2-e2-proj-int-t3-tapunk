@@ -4,13 +4,13 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-![Personas](/img/felipe.PNG)
+![Personas](img/felipe.PNG)
 
-![Personas](/img/eduardo.PNG)
+![Personas](img/eduardo.PNG)
 
-![Personas](/img/helo.PNG)
+![Personas](img/helo.PNG)
 
-![Personas](/img/david.PNG)
+![Personas](docs/img/david.PNG)
 
 ![Personas](/img/ari.PNG)
 
