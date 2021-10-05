@@ -38,11 +38,17 @@ o	Douglas Macedo da Silva
 Com a finalidade de organizar e distribuir as tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
 
 •	Backlog: Recebe as tarefas a serem trabalhadas e todas as atividades identificadas no decorrer do projeto devem ser inclusas a esta lista.
+
 •	To Do: Esta lista representa o Sprint atual que estamos trabalhando.
+
 •	Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
 •	Test: As tarefas são concluídas e movidas para Test, onde são feitos os testes, garantindo que tudo saiu perfeito.
+
 •	Done: Nesta lista são inclusas tarefas que passaram pelos testes e estão prontas para serem entregues ao usuário.
+
 •	Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/me7Z0Ltz/kanban-airsoft e é apresentado no estado atual a seguir:
 
 ![Personas](img/kanban_trello.PNG)
