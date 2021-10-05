@@ -20,14 +20,18 @@ Optamos por utilizar o Git Flow para a gestão do código fonte do software dese
 ## Gerenciamento de Projeto
 O grupo irá utilizar o Scrum, pois tem uma gestão ágil de desenvolvimento de software, onde o projeto pode ser divido em ciclos. Com isso, conseguimos planejar o tempo que levamos para finalizar cada etapa do projeto de modo produtivo e eficaz, diminuindo o impacto das alterações no fluxo do processo alcançando os objetivos definidos durante a etapa de planejamento.
 A equipe está organizada da seguinte maneira:
+
 •	Scrum Master: Alexsander Amorim Kalil
+
 •	Product Owner: Thais Soares Alves da Silva
+
 •	Equipe de Desenvolvimento
+
 o	Aline Gabriela Tibúrcio
 o	Tatiany Belém dos Santos
 o	Douglas Macedo da Silva
-•	Equipe de Design
-•	  Rodrigo Charles Oliveira
+
+•	Equipe de Design: Rodrigo Charles Oliveira
 
 Com a finalidade de organizar e distribuir as tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
 
