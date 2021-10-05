@@ -6,18 +6,18 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas.
 
-![Diagrama de classes](img/diagrama_classe.PNG)
+![Diagrama de classes](img/diagrama_classe.png)
 
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades se relacionam entre si na aplicação interativa.
 
-![Diagrama Entidades Relacionadas](img/diagrama_modeloER.PNG)
+![Diagrama Entidades Relacionadas](img/diagrama_modeloER.png)
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
-![Dados do Esquema Relacional](img/esquema_relacional.PNG)
+![Dados do Esquema Relacional](img/esquema_relacional.png)
 
 
