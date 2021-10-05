@@ -28,7 +28,9 @@ A equipe está organizada da seguinte maneira:
 •	Equipe de Desenvolvimento
 
 o	Aline Gabriela Tibúrcio
+
 o	Tatiany Belém dos Santos
+
 o	Douglas Macedo da Silva
 
 •	Equipe de Design: Rodrigo Charles Oliveira
