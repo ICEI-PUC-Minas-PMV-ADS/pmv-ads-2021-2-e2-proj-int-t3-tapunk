@@ -1,0 +1,48 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
+
+form {
+  width: 60%;
+  margin: auto;
+}
+
+input,
+textarea {
+  width: 100%;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #ce5f16;
+  border: 1px solid #ce5f16;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: inherit;
+}
+button:hover {
+  background-color: rgb(121, 82, 10);
+}
+
+@media screen and (max-width: 768px) {
+  form {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  button {
+    width: 100%;
+  }
+}
+/* criar evento */
+
+.formularioev {
+  width: 100%;
+  margin: auto;
+}
+.fotoevent {
+  width: 800px;
+  height: 300px;
+  margin: 0 auto;
+  display: block;
+}
