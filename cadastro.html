@@ -120,7 +120,8 @@
         </figure>
         <form method="post" id="formulario" action="#">
           <fieldset id="dados">
-            <p><label for="nome">Nome:</label><input type="text" name="tnome" id="nome" size="40" required></p>
+            <p><label for="nome">Nome:</label><input type="text" name="tnome" id="nome" size="40" required
+                class="text-left"></p>
             <p><label for="apelido">Apelido: </label><input type="text" name="tapelido" id="apelido" size="39" required>
             </p>
             <p><label for="nasc">Data de Nasc: </label><input type="date" name="tnasc" id="nasc"></p>
@@ -165,8 +166,9 @@
             <p><label for="twitter">Twitter: </label><input type="text" name="ttwit" id="twitter" size="40"></p>
             <p><label for="g+">G+ Google+: </label><input type="text" name="g+" id="googlemais" size="40"></p>
           </fieldset>
-
-          <button type="submit" name="botao" id="botao">CADASTRAR</button>
+          <div class="d-flex justify-content-center">
+            <button type="submit" name="botao" id="botao" class=" col-md-5 text-center ">CADASTRAR</button>
+          </div>
         </form>
       </div>
     </section>

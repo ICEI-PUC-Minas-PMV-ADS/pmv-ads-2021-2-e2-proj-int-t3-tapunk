@@ -103,7 +103,7 @@
   <main class="cad_equipe">
     <section class="container produtos">
       <h2 class="d-flex justify-content-center">CRIE SUA EQUIPE</h2>
-      <div class="formulario d-flex justify-content-between">
+      <div class="formulario d-flex justify-content-md-center">
         <figure class="figure">
           <img src="assets/images/adicionar-img.jpeg" class="imagem4 figure-img col-md-10 img-fluid rounded float-left"
             alt="caixa para adicionar equipe">
@@ -126,11 +126,10 @@
               </select>
             </p>
             <p><label for="cidade">Cidade: </label><input type="text" name="tcid" id="cidade" size="40"></p>
-            <p><label for="team_members">Membros da equipe:</label><input type="text" name="tmembers" id="team_members"
-                size="40"></p>
+            <label for="team_members">Membros da equipe:</label><input type="text" name="tmembers" id="team_members"
+              size="40">
             <p><label for="team_members"></label> </label><input type="text" name="tmembers" id="team_members"
                 size="40">
-            </p>
             <p><label for="team_members"></label></label><input type="text" name="tmembers" id="team_members" size="40">
             </p>
             <p><label for="team_members"></label></label><input type="text" name="tmembers" id="team_members" size="40">
@@ -145,7 +144,8 @@
               <textarea name="caixa" id="team_history" cols="50" rows="10" maxlength="300" minlength="20"></textarea>
             </p>
           </fieldset>
-          <button>CADASTRAR EQUIPE</button>
+          <div class="d-flex justify-content-center">
+            <button type="submit" name="botao" id="botao" value="enviar">CADASTRAR</button>
         </form>
       </div>
     </section>
