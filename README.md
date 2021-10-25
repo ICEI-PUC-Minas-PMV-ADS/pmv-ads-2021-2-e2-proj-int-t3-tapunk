@@ -1,3 +1,5 @@
+ <img src="docs/img/icon.png" alt="Logo MovAirsoft" width="280">
+ 
 # PLATAFORMA DE ENCONTROS PARA PRATICANTES DE AIRSOFT
 
 `ANÁLISE DE DESENVOLVIMENTO DE SISTEMA`
