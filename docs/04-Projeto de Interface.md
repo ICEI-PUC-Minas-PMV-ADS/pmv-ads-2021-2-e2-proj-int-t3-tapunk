@@ -1,4 +1,3 @@
-
 # Projeto de Interface
 Dentre as preocupações para a montagem da interface do sistema, estabelecemos um foco em questões como simplificar a vida dos esportistas, sendo dinâmico, interativo e acessível e para diversos usuários. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
@@ -9,9 +8,13 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 
 ## Wireframes
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto. As telas apresentam as estruturas Header, Navegator e o Footer em comum, apenas a Main que sofrerá alterações de informações, como demonstrado a seguir:
+
 •	Header- local onde são dispostos elementos fixos de identidade; 
+
 •	Navegator - apresenta os elementos de navegação secundária; 
+
 •	Main- apresenta informações importantes dependo da tela que usuário esteja navegando; 
+
 •	Footer – apresenta o acesso as redes sociais, termos de uso e políticas da empresa. 
 
 ![Estrutura padrão](img/estrutura_padrao.PNG)

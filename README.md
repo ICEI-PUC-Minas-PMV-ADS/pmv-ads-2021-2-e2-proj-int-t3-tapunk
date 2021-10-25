@@ -10,6 +10,7 @@ Desenvolver uma plataforma com intuito de expandir a competição entre equipes,
 
 ## Integrantes
 
+* Aline Gabriela Tibúrcio
 * Alexsander Amorim Kalil
 * Douglas Macedo da Silva
 * Rodrigo Charles Oliveira Cardoso
