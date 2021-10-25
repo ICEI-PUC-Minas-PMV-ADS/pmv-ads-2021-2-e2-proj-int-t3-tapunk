@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
 
 form {
-  width: 60%;
+  width: 100 %;
   margin: auto;
 }
 
@@ -18,7 +18,8 @@ button {
   color: white;
   padding: 10px;
   border-radius: 5px;
-  margin: inherit;
+  display: flex;
+  justify-content: center;
 }
 button:hover {
   background-color: rgb(121, 82, 10);
