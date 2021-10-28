@@ -111,14 +111,15 @@
   <main class="cadastro">
     <section class="container produtos">
       <h2 class="d-flex justify-content-center">CADASTRO DO USUÁRIO</h2>
-      <div class="formulario d-flex justify-content-between">
-        <figure class="figure">
-          <img src="assets/images/adicionar-img.jpeg" class="imagem4
-              figure-img col-md-12 img-fluid rounded float-left" alt="caixa para adicionar equipe">
-          <figcaption class="figure-caption">Adicione sua imagem</figcaption>
-          <!-- <input type="file" id="fileimage" /> -->
+      <div class="figure-cadequipe row justify-content-between">
+        <figure class="figure-adicionar col-md-3">
+          <img src="assets/images/adicionar-img.PNG"
+            class="imagem4 figure-img img-fluid col-xl-10 col-lg-10 col-md-12 nav-item d-flex align-items-center"
+            alt="caixa para adicionar equipe">
+          <!-- <input type="file" id="fileimage"/> -->
+          <figcaption class="figure-caption text-center">Adicione uma imagem</figcaption>
         </figure>
-        <form method="post" id="formulario" action="#">
+        <form class="form_equipe col-md-8" method="post" id="formulario" action="#">
           <fieldset id="dados">
             <p><label for="nome">Nome:</label><input type="text" name="tnome" id="nome" size="40" required
                 class="text-left"></p>
