@@ -6,19 +6,19 @@ Nesta seção é apresentada a tela Home-Page e apenas uma das funcionalidades d
 
 A tela principal apresenta diversas funcionalidades que estarão descritas separadamente nas próximas visualizações de telas, na Home-Page temos estruturas de dados baseada em HMTL e CSS. Exemplo da tela Home-Page:
 
-![tela de Home-Page](/img/tela_home_page.png)
+![tela de Home-Page](img/tela_home_page.png)
 
 ### Artefatos da funcionalidade 
 
-*index.html
-*adicionarequipe.html
-*adicionarevento.html
-*vejaMais.html
-*style.css
+* index.html
+* adicionarequipe.html
+* adicionarevento.html
+* vejaMais.html
+* style.css
 
 ### Estrutura de Dados 
  
- <main>
+      <main>
     <section id="banners-promocionais" class="container carousel slide" data-ride="carousel">
       <article class="carousel-inner">
         <figure class="carousel-item active">
@@ -93,7 +93,7 @@ A tela principal apresenta diversas funcionalidades que estarão descritas separ
         <a href="/vejaMais.html" class="btn btn-warning col-md-2">VEJA MAIS</a>
       </div>
     </section>
-  </main>
+      </main>
 
 
 ### Instruções de acesso 
@@ -106,22 +106,21 @@ A tela principal apresenta diversas funcionalidades que estarão descritas separ
 
 O acesso a tela de Login poderá ser realizado nas demais telas do sistema através do menu “Entrar”, as estruturas dados foram baseadas em HMTL e CSS. Exemplo da tela Login:
 
-![tela de Login](/img/tela_login1.png)
+![tela de Login](img/tela_login1.png)
 
 ### Requisitos atendidos 
 
-*RF-01  
+* RF-01  
 
 
 ### Artefatos da funcionalidade 
 
-*login.html
-
-*style.css
+* login.html
+* style.css
 
 ### Estrutura de Dados 
 
-     <main class="container">
+      <main class="container">
     <h1 class="d-flex justify-content-center"><strong>LOGIN</strong></h1>
     <article class="row d-flex align-items-center">
       <form action="">
@@ -148,7 +147,7 @@ O acesso a tela de Login poderá ser realizado nas demais telas do sistema atrav
         </div>
       </form>
     </article>
-  </main>
+      </main>
 
 ### Instruções de acesso 
 
@@ -160,22 +159,21 @@ O acesso a tela de Login poderá ser realizado nas demais telas do sistema atrav
 
 Em todas as telas será possível o usuário realizar o cadastro, a estruturas de dados utilizada foi baseada em HMTL e CSS. Exemplo da tela Cadastro: 
 
-![tela de Cadastro](/img/tela_cadastro1.png)
+![tela de Cadastro](img/tela_cadastro1.png)
 
 ### Requisitos atendidos 
 
-*RF-02
+* RF-02
 
 ### Artefatos da funcionalidade 
 
-*cadastro.html
-
-*style.css
+* cadastro.html
+* style.css
 
  
 ### Estrutura de Dados 
 
- <main class="cadastro">
+      <main class="cadastro">
     <section class="container produtos">
       <h2 class="d-flex justify-content-center">CADASTRO DO USUÁRIO</h2>
       <div class="figure-cadequipe row justify-content-between">
@@ -239,7 +237,7 @@ Em todas as telas será possível o usuário realizar o cadastro, a estruturas d
         </form>
       </div>
     </section>
-  </main>
+      </main>
 
 ### Instruções de acesso  
 
@@ -252,23 +250,21 @@ Em todas as telas será possível o usuário realizar o cadastro, a estruturas d
 
 Em todas as telas será possível o usuário acessa a tela de “Eventos Disponíveis”, a estruturas de dados utilizada foi baseada em HMTL e CSS. Exemplo da tela Eventos Disponíveis:
 
-![tela Eventos Disponíveis](/img/tela_eventosdisponiveis.png)
+![tela Eventos Disponíveis](img/tela_eventosdisponiveis.png)
 
 ### Requisitos atendidos 
 
-*RF-08
-
-*RF-05
+* RF-08
+* RF-05
 
 ### Artefatos da funcionalidade 
 
-*eventosDisponiveis.html
-
-*style.css
+* eventosDisponiveis.html
+* style.css
   
 ### Estrutura de Dados 
 
-    <main class="container-eventos">
+      <main class="container-eventos">
     <section class="container produtos">
       <article>
         <h2 class="d-flex justify-content-center">EVENTOS DISPONÍVEIS</h2>
@@ -326,7 +322,7 @@ Em todas as telas será possível o usuário acessa a tela de “Eventos Dispon�
         </div>
     </section>
     </article>
-  </main>
+      </main>
 
 ### Instruções de acesso 
 
@@ -339,21 +335,20 @@ Em todas as telas será possível o usuário acessa a tela de “Eventos Dispon�
 
 Em todas as telas será possível o usuário acessa a tela de “Sobre Airsoft”, a estruturas de dados utilizada foi baseada em HMTL e CSS. Exemplo da tela Sobre Airsoft: 
 
-![tela informações Sobre Airsoft](/img/tela_sobre.png)
+![tela informações Sobre Airsoft](img/tela_sobre.png)
 
 ### Requisitos atendidos 
 
-*RF-06
+* RF-06
 
 ### Artefatos da funcionalidade 
 
-*sobreAirsoft.html
-
-*style.css
+* sobreAirsoft.html
+* style.css
 
 ### Estrutura de Dados 
 
- <main class="container-sobre">
+      <main class="container-sobre">
     <section class="container produtos">
       <article>
         <div class="conteudo">
@@ -384,7 +379,7 @@ Em todas as telas será possível o usuário acessa a tela de “Sobre Airsoft�
         </div>
     </section>
     </article>
-  </main>
+      </main>
 
 ### Instruções de acesso 
 
@@ -397,22 +392,20 @@ Em todas as telas será possível o usuário acessa a tela de “Sobre Airsoft�
 
 Na tela da home-Page será possível o usuário acessa a tela de “Criar Eventos”, a estruturas de dados utilizada foi baseada em HMTL e CSS. Exemplo da tela Criar Eventos:
 
-![tela Criar Eventos](/img/tela_criarevento.png)
+![tela Criar Eventos](img/tela_criarevento.png)
 
 ### Requisitos atendidos 
 
-*RF-04
+* RF-04
 
 ### Artefatos da funcionalidade 
 
-*adicionarevento.html
-
-*style.css
-
+* adicionarevento.html
+* style.css
 
 ### Estrutura de Dados 
 
-<main class="cadevent">
+      <main class="cadevent">
     <section class="container produtos">
       <h2 class="d-flex justify-content-center">ADICIONE SEU EVENTO</h2>
       <img src="assets/images/googlemapevento.jpeg" alt="fotocriaevent"
@@ -454,7 +447,7 @@ Na tela da home-Page será possível o usuário acessa a tela de “Criar Evento
         </form>
       </div>
     </section>
-  </main>
+      </main>
 
  
 ### Instruções de acesso 
@@ -468,21 +461,20 @@ Na tela da home-Page será possível o usuário acessa a tela de “Criar Evento
 
 Na tela da home-Page será possível o usuário acessa a tela de “Adicionar equipes”, a estruturas de dados utilizada foi baseada em HMTL e CSS. Exemplo da tela adicionar equipes:
 
-![tela Adicionar Equipes](/img/tela_adicionarequipe.png)
+![tela Adicionar Equipes](img/tela_adicionarequipe.png)
 
 ### Requisitos atendidos 
 
-*RF-03
+* RF-03
 
 ### Artefatos da funcionalidade 
 
-*adicionarequipe.html
-
-*style.css
+* adicionarequipe.html
+* style.css
 
 ### Estrutura de Dados 
 
-  <main class="cad_equipe">
+      <main class="cad_equipe">
     <section class="container produtos">
       <h2 class="d-flex justify-content-center">CRIE SUA EQUIPE</h2>
       <div class="figure-cadequipe row justify-content-between">
@@ -533,7 +525,7 @@ Na tela da home-Page será possível o usuário acessa a tela de “Adicionar eq
         </form>
       </div>
     </section>
-  </main>
+       </main>
 
 
 ### Instruções de acesso 
@@ -547,23 +539,22 @@ Na tela da home-Page será possível o usuário acessa a tela de “Adicionar eq
 
 Na tela principal do sistema apresenta um menu com “veja mais” que redireciona para a tela de ranking nacional das demais equipes cadastradas, utilizado estruturas de dados baseada em HMTL e CSS. Um exemplo da tela Veja Mais vagas: 
 
-![tela Veja Mais](/img/tela_vejaMais.png)
+![tela Veja Mais](img/tela_vejaMais.png)
 
 ### Requisitos atendidos 
 
-*RF-07
+* RF-07
 
 ### Artefatos da funcionalidade 
 
-*vejaMais.html
-
-*style.css
+* vejaMais.html
+* style.css
 
 
 ### Estrutura de Dados 
 
- <main>
- <section class="container produtos">
+      <main>
+    <section class="container produtos">
       <h1 class="d-flex justify-content-center">RANKING NACIONAL POR EQUIPES</h1>
       <article class="row">
         <a class="produtos-container col-md-3">
@@ -652,8 +643,7 @@ Na tela principal do sistema apresenta um menu com “veja mais” que redirecio
         </a>
       </article>
       </a>
-      </article>
-  </main>
+      </main>
 
 ### Instruções de acesso 
 
