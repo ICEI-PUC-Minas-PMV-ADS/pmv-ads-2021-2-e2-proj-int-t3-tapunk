@@ -1,4 +1,3 @@
-
 # Projeto de Interface
 Dentre as preocupações para a montagem da interface do sistema, estabelecemos um foco em questões como simplificar a vida dos esportistas, sendo dinâmico, interativo e acessível e para diversos usuários. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
