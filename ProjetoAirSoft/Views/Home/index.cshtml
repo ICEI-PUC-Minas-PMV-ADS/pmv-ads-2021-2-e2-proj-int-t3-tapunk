@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>AirSoft</title>
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="./imagens/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="./imagens/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="./imagens/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="./imagens/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="./imagens/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="./imagens/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="./imagens/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="./imagens/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="./imagens/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./imagens/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./imagens/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="./imagens/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./imagens/favicons/favicon-16x16.png">
+  <link rel="manifest" href="./imagens/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content=".imagens/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <!-- end Favicons -->
+
+  <!-- Css -->
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+
+  <!-- header -->
+  <header class="container-fluid">
+    <!-- container -->
+    <section class="container">
+      <!-- row -->
+      <article class="row d-flex align-items-center">
+
+        <!-- logo -->
+        <a href="./" class="col-md-2 d-flex justify-content-center">
+          <img src="./imagens/logo-144x144.png" class="img-fluid" alt="Logo da empresa - Mov Airsoft">
+        </a>
+
+        <!-- buscador -->
+        <form action="#" class="col-md-7 d-flex align-items-center">
+        </form>
+
+        <!-- administrativo usuário/jogador -->
+        <ul class="col-md-3 nav d-flex align-items-center justify-content-around">
+          <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Create">
+              <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-fill" fill="currentColor"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd"
+                  d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+              </svg>Entrar
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#"></a>
+              <a class="nav-link text-dark" asp-area="" asp-controller="Cadastrar" asp-action="Create" class="notificacao d-flex align-items-center justify-content-center">
+                <img src="./imagens/alvo.png" class="img-fluid" alt="Alvo - icone Cadastrar">
+                <path fill-rule="evenodd"
+                  d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm7 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2z" />
+                </svg>
+                Cadastrar
+              </a>
+          </li>
+        </ul>
+        <!-- end administrativo do cliente -->
+      </article>
+      <!-- row -->
+    </section>
+    <!-- end container -->
+  </header>
+  <!-- end header -->
+
+  <!-- menu do site -->
+  <nav class="container-fluid nav-produtos">
+    <!-- container -->
+    <section class="container">
+      <!-- menu -->
+      <ul class="nav">
+        <!-- lista de itens -->
+          <li class="col-xl-2 col-lg-3 col-md-12 nav-item d-flex align-items-center">
+              <a class="nav-link text-dark" asp-area="" asp-controller="Sobre" asp-action="Index">
+              </svg>Sobre Airsoft </a>
+              
+              <!-- submenu -->
+              <ul>
+              </ul>
+              <!-- end submenu -->
+          </li>
+
+        <!-- lista de itens -->
+        <li class="col-xl-2 col-lg-3 col-md-12 nav-item d-flex align-items-center">
+          </svg>Eventos
+        </li>
+      </ul>
+      <!-- menu -->
+    </section>
+    <!-- end container -->
+  </nav>
+  <!-- end menu do site -->
+
+  <!-- main -->
+  <main>
+    <!-- banners promocionais rotativos  -->
+    <section id="banners-promocionais" class="container carousel slide" data-ride="carousel">
+      <!-- imagens -->
+      <article class="carousel-inner">
+        <figure class="carousel-item active">
+          <img src="./imagens/fotocarrouselarrumada.jpg" class="d-block w-100"
+            alt="Banner Promocional lançamento verão">
+        </figure>
+
+        <figure class="carousel-item">
+          <img src="./imagens/fotocarrouselarrumada2.jpg" class="d-block w-100"
+            alt="Banner Promocional diversos itens da loja">
+        </figure>
+      </article>
+
+      <!-- prev -->
+      <a class="carousel-control-prev" href="#banners-promocionais" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <!-- next -->
+      <a class="carousel-control-next" href="#banners-promocionais" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </section>
+    <!-- banners promocionais rotativos  -->
+
+    <!-- banners promocionais com 6 colunas -->
+    <section class="container banners-promocionais-statico">
+      <!-- row -->
+      <section class="row">
+        <!-- banner -->
+        <article class="col-md-6">
+          <div class="banners-promocionais-statico-12x d-flex align-items-center">
+            <!--
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-credit-card" fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd"
+                d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z" />
+              <path d="M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z" />
+            </svg>
+            -->
+
+            <p>Criar Eventos<br>
+
+            </p>
+          </div>
+        </article>
+
+        <!-- banner -->
+        <article class="col-md-6">
+          <div class="banners-promocionais-statico-todo-br d-flex align-items-center">
+
+            <p>Adicionar Equipes<br>
+
+            </p>
+          </div>
+        </article>
+      </section>
+      <!-- end row -->
+    </section>
+    <!-- end banners promocionais com 6 colunas -->
+
+    <!-- container produtos -->
+    <section class="container produtos">
+      <!-- title -->
+      <h1 class="text-center">Ranking Nacional</h1>
+
+      <!-- listagem dos produto s -->
+      <article class="row">
+
+        <!-- produtos -->
+        <a href="#" class="produtos-container col-md-3">
+          <!-- imagem do produto -->
+          <img src="./assets/images/painel1.jpg" class="img-fluid" alt="Cropped rosa">
+
+          <!-- itens do produto -->
+          <article class="produtos-itens">
+            <!-- title produto -->
+            <h2>Black River Airsoft</h2>.
+            <!-- preco -->
+            <strong class="produtos-preco">
+              1º Lugar
+            </strong>
+          </article>
+          <!-- end itens do produto -->
+        </a>
+        <!-- end produtos -->
+
+        <!-- produtos -->
+        <a href="./produto-camiseta-manga-comprida.html" class="produtos-container col-md-3">
+          <!-- imagem do produto -->
+          <img src="./assets/images/painel2.jpg" class="img-fluid" alt="Camiseta manga comprida">
+
+          <!-- itens do produto -->
+          <article class="produtos-itens">
+            <!-- title produto -->
+            <h2>Esquadrão Tatico Airsoft</h2>.
+            <!-- preco -->
+            <strong class="produtos-preco">
+              2º Lugar
+            </strong>
+          </article>
+          <!-- end itens do produto -->
+        </a>
+        <!-- end produtos -->
+
+        <!-- produtos -->
+        <a href="#" class="produtos-container col-md-3">
+          <!-- imagem do produto -->
+          <img src="./assets/images/painel4.jpg" class="img-fluid" alt="Camiseta listrada">
+
+          <!-- itens do produto -->
+          <article class="produtos-itens">
+            <!-- title produto -->
+            <h2>Assault Squad Airsoft</h2>.
+            <!-- preco -->
+            <strong class="produtos-preco">
+              3ª lugar
+            </strong>
+          </article>
+          <!-- end itens do produto -->
+        </a>
+        <!-- end produtos -->
+
+        <!-- produtos -->
+        <a href="#" class="produtos-container col-md-3">
+          <!-- imagem do produto -->
+          <img src="./assets/images/painel3.jpg" class="img-fluid" alt="Saia plisada">
+
+          <!-- itens do produto -->
+          <article class="produtos-itens">
+            <!-- title produto -->
+            <h2>Black Walk Team</h2>.
+            <!-- preco -->
+            <strong class="produtos-preco">
+              Invicto
+            </strong>
+          </article>
+          <!-- end itens do produto -->
+        </a>
+        <!-- end produtos -->
+
+      </article>
+      <!-- listagem dos produtos -->
+
+      <div class="d-flex justify-content-center">
+        <a href="./vejaMais.html" class="btn btn-warning col-md-2">VEJA MAIS</a>
+      </div>
+    </section>
+    <!-- end container produtos -->
+  </main>
+  <!-- end main -->
+
+  <!-- Footer -->
+  <footer class="container-fluid">
+    <!-- container -->
+    <section class="container">
+      <!-- menus -->
+      <section class="row">
+        <!-- atendimento -->
+        <article class="col-md-4">
+          <h4>
+            Atendimento
+          </h4>
+          <!-- links -->
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a href="#">Fale Conosco</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#">E-mail</a>
+            </li>
+
+            <li class="nav-item">Regulamentos
+            </li>
+          </ul>
+        </article>
+        <!-- end atendimento -->
+
+        <!-- acesso rápido -->
+        <article class="col-md-3">
+          <h4>
+            Acesso rápido
+          </h4>
+          <!-- links -->
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a href="#">Minha conta</a>
+            </li>
+            <li class="nav-item">
+              <a href="#">Meus Favoritos</a>
+            </li>
+            <li class="nav-item">
+              <a href="#">Times</a>
+            </li>
+            <li class="nav-item">
+              <a href="#">Squads</a>
+            </li>
+          </ul>
+        </article>
+        <!-- end acesso rápido -->
+
+        <!-- institucional -->
+        <article class="col-md-3">
+          <h4>
+            Institucional
+          </h4>
+          <!-- links -->
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a href="#">Sobre Regras</a>
+            </li>
+            <li class="nav-item">
+              <a href="#">Politica e privacidade</a>
+            </li>
+          </ul>
+        </article>
+        <!-- end institucional -->
+
+        <!-- mais acessadas -->
+        <article class="col-md-2">
+          <h4>
+            Mais acessadas
+          </h4>
+          <!-- links -->
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a href="#">Melhores Armas</a>
+            </li>
+
+            <li class="nav-item ellipsis">
+              <a href="#">Melhores Equipamentos</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#">Iniciantes</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#">O que saber </a>
+            </li>
+          </ul>
+        </article>
+        <!-- end mais acessadas -->
+      </section>
+      <!-- end menus -->
+    </section>
+    <!-- end container -->
+
+  </footer>
+  <!-- end Footer-->
+
+  <!-- Arquivos Bootstrap -->
+  <script src="./lib/jquery/dist/jquery.js"></script>
+  <script src="./assets/js/popper.js"></script>
+  <script src="./lib/bootstrap/dist/js/bootstrap.js"></script>
+</body>
+
+</html>
