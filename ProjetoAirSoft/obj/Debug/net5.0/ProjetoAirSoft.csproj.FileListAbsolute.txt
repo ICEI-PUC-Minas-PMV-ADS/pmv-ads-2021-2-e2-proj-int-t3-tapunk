@@ -864,7 +864,6 @@ C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Cadastrar\Index.cshtml.g.cs
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Sobre\Index.cshtml.g.cs
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Usuarios\Create.cshtml.g.cs
@@ -882,3 +881,9 @@ C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\ref\ProjetoAirSoft.dll
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\ProjetoAirSoft.pdb
 C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\ProjetoAirSoft.genruntimeconfig.cache
+C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Equipes\Create.cshtml.g.cs
+C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Equipes\Delete.cshtml.g.cs
+C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Equipes\Details.cshtml.g.cs
+C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Equipes\Edit.cshtml.g.cs
+C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Equipes\Index.cshtml.g.cs
+C:\Users\Alex & Rilmara\Documents\ProjetoAirSoft\ProjetoAirSoft\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs

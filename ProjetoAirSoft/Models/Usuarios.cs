@@ -11,11 +11,14 @@ namespace ProjetoAirSoft.Models
     public class Usuarios
     {
         [Key]
-        [Required(ErrorMessage="Obrigatório informar o e-mail!")]
+        [Required(ErrorMessage = "Obrigatório informar o e-mail!")]
         public string Email { get; set; }
         [Required(ErrorMessage = "Obrigatório informar a senha!")]
         [DataType(DataType.Password)]
-        public int Senha { get; set; }
+        public string Senha
+        {
+            get; set;
 
+        }
     }
 }

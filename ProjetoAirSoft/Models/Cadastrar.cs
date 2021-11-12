@@ -26,11 +26,14 @@ namespace ProjetoAirSoft.Models
         public string Email { get; set; }
         [Required(ErrorMessage = "Obrigatório informar a senha.")]
         [DataType(DataType.Password)]
-        public int Senha { get; set; }
+        public string Senha { get; set; }
+        
         [Required(ErrorMessage = "Obrigatório informar a cidade.")]
         public string Cidade { get; set; }
         [Required(ErrorMessage = "Obrigatório informar o estado")]
         public string UF { get; set; }
+
+        
 
 
 

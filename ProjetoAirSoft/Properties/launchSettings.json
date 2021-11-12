@@ -7,6 +7,10 @@
       "sslPort": 44337
     }
   },
+  "sdk": {
+
+    "version": "6.0.100"
+  },
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
