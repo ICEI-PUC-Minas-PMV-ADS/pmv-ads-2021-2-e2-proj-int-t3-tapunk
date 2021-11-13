@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -19,9 +21,52 @@ namespace ProjetoAirSoft.Controllers
         }
 
         // GET: Usuarios
-        public async Task<IActionResult> Index()
+        public IActionResult Login()
         {
-            return View(await _context.Usuarios.ToListAsync());
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login([Bind("Id,Senha")] Cadastrar cadastrar)
+        {
+            var usuarios = await _context.Cadastrar
+               .FirstOrDefaultAsync(m => m.Id == Cadastrar.id);
+
+            if (usuarios == null) {
+                ViewBag.Message = "Email ou senha incorretos";
+                return View();
+            }
+
+            bool isSenhaok = BCrypt.Net.BCrypt.Verify(Cadastrar.Senha, usuarios.Senha);
+
+            if(isSenhaok)
+            {
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, Cadastrar.Nome)
+                    new Claim(ClaimTypes.NameIdentifier, Cadastrar.Nome)
+                };
+
+
+                var userIdentity = new ClaimsIdentity(claims, "login");
+
+                ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);
+
+                var props = new AuthenticationProperties
+                {
+                    AllowRefresh = true,
+                    ExpiresUtc = DateTime.Now.AddDays(1),
+                    IsPersistent = true,
+
+                };
+
+                await HttpContext.SignInAsync(principal, props);
+
+                return Redirect("/");
+            }
+            ViewBag.Message = "Email ou senha incorretos";
+            return View();
+
+           
         }
 
         // GET: Usuarios/Details/5
@@ -57,7 +102,7 @@ namespace ProjetoAirSoft.Controllers
         {
             if (ModelState.IsValid)
             {
-                usuarios.Senha = BCrypt.Net.BCrypt.HashPassword(usuarios.Senha);
+                
                 _context.Add(usuarios);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -97,7 +142,6 @@ namespace ProjetoAirSoft.Controllers
             {
                 try
                 {
-                    usuarios.Senha = BCrypt.Net.BCrypt.HashPassword(usuarios.Senha);
                     _context.Update(usuarios);
                     await _context.SaveChangesAsync();
                 }

@@ -17,8 +17,9 @@ namespace ProjetoAirSoft.Models
         public string NomedoEvento { get; set; }
 
         public string Endereço { get; set; }
-
-        public DataType Data { get; set; }
+        [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
+        public string Data { get; set; }
 
         public string Cidade { get; set; }
 

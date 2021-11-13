@@ -57,6 +57,7 @@ namespace ProjetoAirSoft.Controllers
         {
             if (ModelState.IsValid)
             {
+                cadastrar.Senha = BCrypt.Net.BCrypt.HashPassword(cadastrar.Senha);
                 _context.Add(cadastrar);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
