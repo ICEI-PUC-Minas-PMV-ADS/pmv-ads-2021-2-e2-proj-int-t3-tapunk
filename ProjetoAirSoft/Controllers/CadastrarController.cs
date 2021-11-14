@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +12,7 @@ using ProjetoAirSoft.Models;
 
 namespace ProjetoAirSoft.Controllers
 {
+    [Authorize]
     public class CadastrarController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -23,6 +27,67 @@ namespace ProjetoAirSoft.Controllers
         {
             return View(await _context.Cadastrar.ToListAsync());
         }
+        [AllowAnonymous]
+        public IActionResult Login()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login([Bind("Nome,Email,Senha")] Cadastrar cadastrar)
+        {
+            var usuarios = await _context.Cadastrar
+               .FirstOrDefaultAsync(m => m.Email == cadastrar.Email);
+
+            if (usuarios == null)
+            {
+                ViewBag.Message = "Email ou senha incorretos";
+                return View();
+            }
+
+            bool isSenhaok = BCrypt.Net.BCrypt.Verify(cadastrar.Senha, usuarios.Senha);
+
+            if (isSenhaok)
+            {
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, usuarios.Nome),
+                    new Claim(ClaimTypes.NameIdentifier, usuarios.Nome)
+                };
+
+
+                var userIdentity = new ClaimsIdentity(claims, "login");
+
+                ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);
+
+                var props = new AuthenticationProperties
+                {
+                    AllowRefresh = true,
+                    ExpiresUtc = DateTime.Now.AddDays(1),
+                    IsPersistent = true,
+
+                };
+
+                await HttpContext.SignInAsync(principal, props);
+
+                return Redirect("/");
+            }
+            ViewBag.Message = "Email ou senha incorretos";
+            return View();
+
+
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync();
+            return RedirectToAction("Login", "Cadastrar");
+        }
+        [AllowAnonymous]
+        public IActionResult AcessDenied()
+        {
+            return View();
+        }
+        
 
         // GET: Cadastrar/Details/5
         public async Task<IActionResult> Details(int? id)

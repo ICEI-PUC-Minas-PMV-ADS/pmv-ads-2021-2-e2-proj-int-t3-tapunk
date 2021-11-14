@@ -21,6 +21,24 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+                        @if(User.Identity.IsAuthenticated)
+                        {
+                        <li class="nav-item">
+                        Olá, @User.Identity.Name;<a class="nav-link text-dark" asp-area="" asp-controller="Cadastrar" asp-action="Logout">Sair</a>
+                        </li> 
+                        <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Equipes" asp-action="Create">Equipes</a>
+                        </li> 
+                        <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Eventos" asp-action="Create">Eventos</a>
+                        </li> 
+                        }
+                        else
+                        {
+                        <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Cadastrar" asp-action="Login">Login</a>
+                        </li> 
+                        }
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>

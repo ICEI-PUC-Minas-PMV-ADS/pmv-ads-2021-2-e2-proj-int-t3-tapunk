@@ -21,53 +21,7 @@ namespace ProjetoAirSoft.Controllers
         }
 
         // GET: Usuarios
-        public IActionResult Login()
-        {
-            return View();
-        }
-        [HttpPost]
-        public async Task<IActionResult> Login([Bind("Id,Senha")] Cadastrar cadastrar)
-        {
-            var usuarios = await _context.Cadastrar
-               .FirstOrDefaultAsync(m => m.Id == Cadastrar.id);
-
-            if (usuarios == null) {
-                ViewBag.Message = "Email ou senha incorretos";
-                return View();
-            }
-
-            bool isSenhaok = BCrypt.Net.BCrypt.Verify(Cadastrar.Senha, usuarios.Senha);
-
-            if(isSenhaok)
-            {
-                var claims = new List<Claim>
-                {
-                    new Claim(ClaimTypes.Name, Cadastrar.Nome)
-                    new Claim(ClaimTypes.NameIdentifier, Cadastrar.Nome)
-                };
-
-
-                var userIdentity = new ClaimsIdentity(claims, "login");
-
-                ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);
-
-                var props = new AuthenticationProperties
-                {
-                    AllowRefresh = true,
-                    ExpiresUtc = DateTime.Now.AddDays(1),
-                    IsPersistent = true,
-
-                };
-
-                await HttpContext.SignInAsync(principal, props);
-
-                return Redirect("/");
-            }
-            ViewBag.Message = "Email ou senha incorretos";
-            return View();
-
-           
-        }
+        
 
         // GET: Usuarios/Details/5
         public async Task<IActionResult> Details(string id)
