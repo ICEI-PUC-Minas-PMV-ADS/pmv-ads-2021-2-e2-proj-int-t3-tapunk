@@ -46,6 +46,8 @@ header ul li a:hover {
 nav.nav-produtos {
   background: #343a40;
   color: #fff;
+  cursor: pointer;
+  font-weight: bold;
 }
 nav.nav-produtos a {
   color: #fff;
@@ -70,8 +72,8 @@ nav.nav-produtos ul.nav li ul.nav {
   position: absolute;
   top: 44px;
   left: 0px;
-  background: #343a40;
-  border-top: solid #ffc107 10px;
+  background: #f5f7f8;
+  border-top: solid #fc9541 10px;
   width: 100%;
 }
 nav.nav-produtos ul.nav li ul.nav li {
@@ -82,12 +84,16 @@ nav.nav-produtos ul.nav li ul.nav li {
   margin-top: 30px;
 }
 .banners-promocionais-statico .banners-promocionais-statico-12x {
-  background-color: #ff0f9a;
-  background-image: url('../images/parcele-em-12x.jpg');
+  background-color: #47ff0f6b;
+  background-image: url(../images/equipes.PNG);
+  border-radius: 5px;
+  box-shadow: 10px 5px 5px gray;
 }
 .banners-promocionais-statico .banners-promocionais-statico-todo-br {
-  background-color: #b343c3;
-  background-image: url('../images/entrega-para-todo-brasil.jpg');
+  background-color: #9e1907ea;
+  background-image: url(../images/eventos.PNG);
+  border-radius: 5px;
+  box-shadow: 10px 5px 5px gray;
 }
 .banners-promocionais-statico .banners-promocionais-statico-12x,
 .banners-promocionais-statico .banners-promocionais-statico-todo-br {
@@ -110,9 +116,12 @@ nav.nav-produtos ul.nav li ul.nav li {
 .banners-promocionais-statico .banners-promocionais-statico-12x p,
 .banners-promocionais-statico .banners-promocionais-statico-todo-br p {
   font-weight: 100;
-  font-size: 23px;
+  font-size: 22px;
   line-height: 110%;
   margin-left: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
 }
 .banners-promocionais-statico .banners-promocionais-statico-12x p strong,
 .banners-promocionais-statico .banners-promocionais-statico-todo-br p strong {
@@ -123,10 +132,10 @@ nav.nav-produtos ul.nav li ul.nav li {
   margin: 30px 0;
 }
 .produtos .produtos-container {
-  margin: 30px 0;
+  margin: 30px 47px;
 }
 .produtos .produtos-container .ranking {
-  color: #343a40;
+  color: #070808;
 }
 .produtos .produtos-container .ranking h2 {
   font-size: 19px;
@@ -136,7 +145,7 @@ nav.nav-produtos ul.nav li ul.nav li {
   font-size: 10px;
 }
 .produtos .produtos-container .ranking svg {
-  fill: #ffc107;
+  fill: #1d1809;
 }
 .produtos .produtos-container .ranking .colocacao {
   font-size: 16px;
@@ -153,7 +162,7 @@ nav.nav-produtos ul.nav li ul.nav li {
   font-size: 16px;
 }
 .ranking .colocacao svg {
-  fill: #ffc107;
+  fill: #d87c12;
 }
 .ranking .colocacao strong {
   font-size: 40px;
@@ -172,19 +181,64 @@ nav.nav-produtos ul.nav li ul.nav li {
 
 footer {
   background: #797979;
-  padding: 25px 0;
+  position: relative;
+  bottom: 0px;
+  width: 100%;
   color: #797979;
+  text-align: center;
 }
+
 footer a {
   color: #000;
 }
+
 footer a:hover {
   color: #000;
 }
-footer h4 {
-  color: #f0870c;
-  font-size: 19px;
+
+.termos-politica {
+  cursor: pointer;
+  display: block;
+  position: relative;
+  text-align: center;
+  margin-top: 7%;
 }
+
+#termos {
+  color: #3b3a3a;
+  font-weight: bold;
+  font-size: 80%;
+}
+
+#politic-privacid {
+  color: #3b3a3a;
+  font-weight: bold;
+  font-size: 80%;
+  margin-left: 5%;
+}
+
+.termos-politica p {
+  color: #000;
+  font-size: 10px;
+  text-align: center;
+}
+
+.linha p {
+  color: orange;
+  text-align: center;
+  display: block;
+}
+
+footer ul {
+  display: flex;
+  margin-top: 5%;
+}
+
+footer ul li {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 footer ul li.ellipsis {
   width: 100%;
   overflow: hidden;
@@ -390,7 +444,7 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #000000;
   text-decoration: none;
   background-color: transparent;
 }
@@ -828,7 +882,7 @@ pre code {
 .container-xl {
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: center;
   margin-right: auto;
   margin-left: auto;
 }
@@ -7292,6 +7346,8 @@ a.close.disabled {
   transition: -webkit-transform 0.6s ease-in-out;
   transition: transform 0.6s ease-in-out;
   transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
+  margin-bottom: 2%;
+  margin-top: 2%;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -11690,3 +11746,238 @@ h5 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* ### CSS - ÍNICIO TELA Login */
+
+main.container {
+  background: white;
+  max-width: 500px;
+  min-height: 20vh;
+  padding: 5px 2.5px 5px;
+  box-shadow: 5px 5px 15px #020100;
+  border-radius: 20px;
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+
+main h1 {
+  font-weight: 800;
+  font-size: 25px;
+  position: relative;
+  text-align: center;
+  margin-top: 10%;
+}
+
+form {
+  padding: 100px;
+  margin: auto;
+  padding-top: 40px;
+  font-family: sans-serif;
+}
+
+label {
+  font-weight: bold;
+}
+
+.email {
+  position: relative;
+}
+
+.email input {
+  outline: none;
+  font-size: 0.9rem;
+  color: #000700;
+  border-radius: 5px;
+  width: 80%;
+}
+
+.email input::placeholder {
+  color: #0005;
+}
+
+.senha {
+  position: relative;
+}
+
+.senha input {
+  outline: none;
+  font-size: 0.9rem;
+  color: #000700;
+  border-radius: 5px;
+  width: 80%;
+}
+.senha input::placeholder {
+  color: #0005;
+}
+
+form input[type='submit'] {
+  padding: 10px 20px;
+  background: linear-gradient(to left, #ec8f14, #e78c25);
+  cursor: pointer;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: 0.3s;
+  margin-bottom: 10%;
+  margin-top: 10%;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+form input[type='submit']:hover {
+  letter-spacing: 5px;
+  background: linear-gradient(to right, #ce7611, #d38d24);
+  text-align: center;
+}
+
+#resgiter-container {
+  text-align: left;
+  font-weight: bold;
+  color: #ce5f16;
+  font-size: 80%;
+  cursor: pointer;
+  display: block;
+}
+
+#forgot-pass {
+  text-align: right;
+  font-weight: bold;
+  color: #ce5f16;
+  font-size: 80%;
+  cursor: pointer;
+  display: block;
+}
+
+form .email:first-child {
+  margin-bottom: 1.5rem;
+}
+form .senha:first-child {
+  margin-bottom: 1.5rem;
+}
+
+.email .underline::before {
+  content: '';
+  position: relative;
+  height: 1px;
+  width: 100%;
+  bottom: -5;
+  left: 0px;
+  background: #020201;
+}
+
+.senha .underline::before {
+  content: '';
+  position: relative;
+  height: 1px;
+  width: 100%;
+  bottom: -5;
+  left: 0px;
+  background: #020201;
+}
+
+.email .underline::after {
+  content: '';
+  position: absolute;
+  height: 1px;
+  width: 100%;
+  bottom: -5;
+  left: 0;
+  background: linear-gradient(45deg, #d6711e, #c27b12);
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out;
+  transform-origin: left;
+}
+
+.email input:focus ~ .underline::after {
+  transform: scaleX(1);
+}
+
+.senha .underline::after {
+  content: '';
+  position: absolute;
+  height: 1px;
+  width: 100%;
+  bottom: -5;
+  left: 0;
+  background: linear-gradient(45deg, #d6711e, #c27b12);
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out;
+  transform-origin: left;
+}
+
+.senha input:focus ~ .underline::after {
+  transform: scaleX(1);
+}
+
+/* ### CSS - FIM TELA Login */
+
+/* ### CSS - ÍNICIO TELA SOBRE AIRSOFT */
+
+main.container-sobre {
+  background: white;
+  width: 100%;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.imagem2 {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.conteudo {
+  display: table;
+  margin-top: 2.5%;
+}
+
+.imagem1 {
+  display: table-cell;
+  float: left;
+  margin: 10px 0px 10px 20px;
+}
+
+.texto {
+  justify-content: center;
+  text-align: justify;
+  border-top: 2.5%;
+}
+/* ### CSS - FIM TELA SOBRE AIRSOFT */
+
+/*### CSS - INICIO TELA EVENTOS DISPONIVEIS*/
+
+main.container-eventos {
+  background: white;
+  width: 100%;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.conteudo-eventos1,
+.conteudo-eventos2,
+.conteudo-eventos3 {
+  margin-top: 5%;
+}
+
+.texto1,
+.texto2,
+.texto3 {
+  margin-top: 20px;
+  justify-content: right;
+  text-align: justify;
+}
+
+button {
+  background-color: #ce5f16;
+  border: 1px solid #ce5f16;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+button:hover {
+  background-color: rgb(121, 82, 10);
+}
+/* ### CSS - FIM TELA EVENTOS DISPONIVEIS */

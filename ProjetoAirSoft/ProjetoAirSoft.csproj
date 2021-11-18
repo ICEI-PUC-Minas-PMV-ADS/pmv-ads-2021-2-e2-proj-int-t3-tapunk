@@ -5,6 +5,11 @@
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
   </PropertyGroup>
 
+<ItemGroup>
+  <Compile Remove="Migrations\20211113000639_M00.cs" />
+  <Compile Remove="Migrations\20211113000639_M00.Designer.cs" />
+</ItemGroup>
+
   <ItemGroup>
     <Content Remove="Views\Home\index.cshtml" />
   </ItemGroup>

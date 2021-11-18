@@ -33,7 +33,7 @@
 
 <body>
 
-  <!-- header -->
+@*  <!-- header -->
   <header class="container-fluid">
     <!-- container -->
     <section class="container">
@@ -77,7 +77,7 @@
     </section>
     <!-- end container -->
   </header>
-  <!-- end header -->
+  <!-- end header -->*@
 
   <!-- menu do site -->
   <nav class="container-fluid nav-produtos">
@@ -87,8 +87,8 @@
       <ul class="nav">
         <!-- lista de itens -->
           <li class="col-xl-2 col-lg-3 col-md-12 nav-item d-flex align-items-center">
-              <a class="nav-link text-dark" asp-area="" asp-controller="Sobre" asp-action="Index">
-              </svg>Sobre Airsoft </a>
+              <a class="nav-link " asp-area="" asp-controller="Sobre" asp-action="Index">
+              Sobre Airsoft </a>
               
               <!-- submenu -->
               <ul>
@@ -98,7 +98,8 @@
 
         <!-- lista de itens -->
         <li class="col-xl-2 col-lg-3 col-md-12 nav-item d-flex align-items-center">
-          </svg>Eventos
+            <a class="nav-link " asp-area="" asp-controller="Eventos" asp-action="Index">
+          Eventos </a>
         </li>
       </ul>
       <!-- menu -->
@@ -182,9 +183,9 @@
       <article class="row">
 
         <!-- produtos -->
-        <a href="#" class="produtos-container col-md-3">
+        <a  class="produtos-container col-md-3">
           <!-- imagem do produto -->
-          <img src="./assets/images/painel1.jpg" class="img-fluid" alt="Cropped rosa">
+          <img src="../imagens/painel1.jpg" class="img-fluid" alt="Cropped rosa">
 
           <!-- itens do produto -->
           <article class="produtos-itens">
@@ -200,9 +201,9 @@
         <!-- end produtos -->
 
         <!-- produtos -->
-        <a href="./produto-camiseta-manga-comprida.html" class="produtos-container col-md-3">
+        <a  class="produtos-container col-md-3">
           <!-- imagem do produto -->
-          <img src="./assets/images/painel2.jpg" class="img-fluid" alt="Camiseta manga comprida">
+          <img src="../imagens/painel2.jpg" class="img-fluid" alt="Camiseta manga comprida">
 
           <!-- itens do produto -->
           <article class="produtos-itens">
@@ -218,9 +219,9 @@
         <!-- end produtos -->
 
         <!-- produtos -->
-        <a href="#" class="produtos-container col-md-3">
+        <a  class="produtos-container col-md-3">
           <!-- imagem do produto -->
-          <img src="./assets/images/painel4.jpg" class="img-fluid" alt="Camiseta listrada">
+          <img src="../imagens/painel4.jpg" class="img-fluid" alt="Camiseta listrada">
 
           <!-- itens do produto -->
           <article class="produtos-itens">
@@ -229,24 +230,6 @@
             <!-- preco -->
             <strong class="produtos-preco">
               3ª lugar
-            </strong>
-          </article>
-          <!-- end itens do produto -->
-        </a>
-        <!-- end produtos -->
-
-        <!-- produtos -->
-        <a href="#" class="produtos-container col-md-3">
-          <!-- imagem do produto -->
-          <img src="./assets/images/painel3.jpg" class="img-fluid" alt="Saia plisada">
-
-          <!-- itens do produto -->
-          <article class="produtos-itens">
-            <!-- title produto -->
-            <h2>Black Walk Team</h2>.
-            <!-- preco -->
-            <strong class="produtos-preco">
-              Invicto
             </strong>
           </article>
           <!-- end itens do produto -->
@@ -264,109 +247,36 @@
   </main>
   <!-- end main -->
 
-  <!-- Footer -->
+@*   <!-- Footer -->
   <footer class="container-fluid">
     <!-- container -->
     <section class="container">
       <!-- menus -->
-      <section class="row">
-        <!-- atendimento -->
-        <article class="col-md-4">
-          <h4>
-            Atendimento
-          </h4>
-          <!-- links -->
-          <ul class="nav flex-column">
-            <li class="nav-item">
-              <a href="#">Fale Conosco</a>
-            </li>
-
-            <li class="nav-item">
-              <a href="#">E-mail</a>
-            </li>
-
-            <li class="nav-item">Regulamentos
-            </li>
-          </ul>
-        </article>
-        <!-- end atendimento -->
-
-        <!-- acesso rápido -->
-        <article class="col-md-3">
-          <h4>
-            Acesso rápido
-          </h4>
-          <!-- links -->
-          <ul class="nav flex-column">
-            <li class="nav-item">
-              <a href="#">Minha conta</a>
-            </li>
-            <li class="nav-item">
-              <a href="#">Meus Favoritos</a>
-            </li>
-            <li class="nav-item">
-              <a href="#">Times</a>
-            </li>
-            <li class="nav-item">
-              <a href="#">Squads</a>
-            </li>
-          </ul>
-        </article>
-        <!-- end acesso rápido -->
-
-        <!-- institucional -->
-        <article class="col-md-3">
-          <h4>
-            Institucional
-          </h4>
-          <!-- links -->
-          <ul class="nav flex-column">
-            <li class="nav-item">
-              <a href="#">Sobre Regras</a>
-            </li>
-            <li class="nav-item">
-              <a href="#">Politica e privacidade</a>
-            </li>
-          </ul>
-        </article>
-        <!-- end institucional -->
-
-        <!-- mais acessadas -->
-        <article class="col-md-2">
-          <h4>
-            Mais acessadas
-          </h4>
-          <!-- links -->
-          <ul class="nav flex-column">
-            <li class="nav-item">
-              <a href="#">Melhores Armas</a>
-            </li>
-
-            <li class="nav-item ellipsis">
-              <a href="#">Melhores Equipamentos</a>
-            </li>
-
-            <li class="nav-item">
-              <a href="#">Iniciantes</a>
-            </li>
-
-            <li class="nav-item">
-              <a href="#">O que saber </a>
-            </li>
-          </ul>
-        </article>
-        <!-- end mais acessadas -->
-      </section>
+      <div class="linha text-center">
+        <p>______________________________________________________</p>
+      </div>
+      <!-- icons contato -->
+      <ul>
+        <li><a href="#"><img src="./images/favicons/facebook.png" alt="facebook"></a></li>
+        <li><a href="#"><img src="./images/favicons/instagran.png" alt="instagran"></a></li>
+        <li><a href="#"> <img src="./images/favicons/whatsapp.png" alt="whatsapp"></a></li>
+        <li><a href="#"><img src="./images/favicons/tweeter.png" alt="twitter"></a></li>
+        <li><a href="#"><img src="./images/favicons/email.png" alt="email"></a></li>
+      </ul>
+      <div class=termos-politica>
+        <a href="#" id="termos">Termos de uso</a>
+        <a href="#" id="politic-privacid">Política de Privacidade</a>
+        <p>© 2021 por MOV AIRSOFT. Todos os direitos reservados</p>
+      </div>
       <!-- end menus -->
     </section>
     <!-- end container -->
-
   </footer>
-  <!-- end Footer-->
+  <!-- end Footer-->*@
 
   <!-- Arquivos Bootstrap -->
   <script src="./lib/jquery/dist/jquery.js"></script>
-  <script src="./assets/js/popper.js"></script>
+  <script src="./lib/jquery/dist/popper.js"></script>
   <script src="./lib/bootstrap/dist/js/bootstrap.js"></script>
 </body>
 

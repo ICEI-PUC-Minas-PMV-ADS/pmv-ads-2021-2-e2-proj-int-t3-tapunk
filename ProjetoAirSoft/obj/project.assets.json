@@ -9807,19 +9807,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alex & Rilmara\\.nuget\\packages\\": {}
+    "C:\\Users\\Rato\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex & Rilmara\\Documents\\ProjetoAirSoft\\ProjetoAirSoft\\ProjetoAirSoft.csproj",
+      "projectUniqueName": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\ProjetoAirSoft.csproj",
       "projectName": "ProjetoAirSoft",
-      "projectPath": "C:\\Users\\Alex & Rilmara\\Documents\\ProjetoAirSoft\\ProjetoAirSoft\\ProjetoAirSoft.csproj",
-      "packagesPath": "C:\\Users\\Alex & Rilmara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex & Rilmara\\Documents\\ProjetoAirSoft\\ProjetoAirSoft\\obj\\",
+      "projectPath": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\ProjetoAirSoft.csproj",
+      "packagesPath": "C:\\Users\\Rato\\.nuget\\packages\\",
+      "outputPath": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alex & Rilmara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rato\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
