@@ -15,7 +15,6 @@ namespace ProjetoAirSoft.Models
 
         public DbSet<Cadastrar> Cadastrar { get; set; }
 
-        public DbSet<Usuarios> Usuarios { get; set; }
 
         public DbSet<Equipes> Equipes { get; set; }
 

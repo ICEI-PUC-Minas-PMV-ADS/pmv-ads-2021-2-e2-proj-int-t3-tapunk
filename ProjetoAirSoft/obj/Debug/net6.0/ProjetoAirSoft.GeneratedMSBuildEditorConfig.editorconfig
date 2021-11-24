@@ -8,125 +8,105 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoAirSoft
 build_property.RootNamespace = ProjetoAirSoft
-build_property.ProjectDir = D:\Faculdade\Puc\Github\pmv-ads-2021-2-e2-proj-int-t3-tapunk\ProjetoAirSoft\
+build_property.ProjectDir = C:\Users\Alex & Rilmara\Documents\GitHub\pmv-ads-2021-2-e2-proj-int-t3-tapunk\ProjetoAirSoft\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\Faculdade\Puc\Github\pmv-ads-2021-2-e2-proj-int-t3-tapunk\ProjetoAirSoft
+build_property.MSBuildProjectDirectory = C:\Users\Alex & Rilmara\Documents\GitHub\pmv-ads-2021-2-e2-proj-int-t3-tapunk\ProjetoAirSoft
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/AcessDenied.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/AcessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyXEFjZXNzRGVuaWVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Create.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Delete.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Details.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Edit.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Index.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Login.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Cadastrar/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Create.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Delete.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Details.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Edit.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Index.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Equipes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Create.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Delete.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Details.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Edit.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Index.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Eventos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Home/Privacy.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Shared/Error.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Shared/_Layout.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Sobre/Index.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Sobre/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29icmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Usuarios/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Usuarios/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Usuarios/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Usuarios/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/Usuarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/_ViewImports.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/Puc/Github/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/_ViewStart.cshtml]
+[C:/Users/Alex & Rilmara/Documents/GitHub/pmv-ads-2021-2-e2-proj-int-t3-tapunk/ProjetoAirSoft/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

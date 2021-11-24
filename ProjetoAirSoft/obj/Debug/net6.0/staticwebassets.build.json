@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o76vysiLZLJJXuIf/sdckxMZrmjs6rVmVyORyumxID0=",
+  "Hash": "A6k/fXAuf43Nc60cJn0qAPakV6EbPH89yJODmCkxhxM=",
   "Source": "ProjetoAirSoft",
   "BasePath": "_content/ProjetoAirSoft",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ProjetoAirSoft\\wwwroot",
       "Source": "ProjetoAirSoft",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\cadastro.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\cadastro.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/cadastro.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\cadastro.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\banners-promocionais-statico.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\banners-promocionais-statico.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/banners-promocionais-statico.scss",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\banners-promocionais-statico.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\bootstrap.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\breadcrumb.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\breadcrumb.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/breadcrumb.scss",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\breadcrumb.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\config.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\config.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/config.scss",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\config.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\footer.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\footer.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/footer.scss",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\footer.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\header.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\header.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/header.scss",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\header.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\nav-produtos.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\nav-produtos.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/nav-produtos.scss",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\nav-produtos.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\produtos.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\produtos.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/produtos.scss",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\produtos.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\produtos-compra.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\produtos-compra.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/produtos-compra.scss",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\produtos-compra.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\responsive.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\responsive.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/responsive.scss",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\responsive.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\style.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\style.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/style.scss",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\style.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\variaveis.scss",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\scss\\variaveis.scss",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/scss/variaveis.scss",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\variaveis.scss"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\site.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\style.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\style.css.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\css\\style.css.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\favicon.ico",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\1lugar.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\1lugar.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/1lugar.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\1lugar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\2lugar.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\2lugar.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/2lugar.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\2lugar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\3lugar.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\3lugar.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/3lugar.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\3lugar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\adicionar-img.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\adicionar-img.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/adicionar-img.jpeg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\adicionar-img.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\adicionar-img.PNG",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\adicionar-img.PNG",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/adicionar-img.PNG",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\adicionar-img.PNG"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\alvo.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\alvo.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/alvo.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\alvo.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\bonec1.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\bonec1.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/bonec1.jpeg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\bonec1.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\bonec1.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\bonec1.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/bonec1.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\bonec1.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\carousel-atirador.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\carousel-atirador.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/carousel-atirador.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\carousel-atirador.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\carousel-equipe.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\carousel-equipe.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/carousel-equipe.jpeg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\carousel-equipe.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\equipes.PNG",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\equipes.PNG",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/equipes.PNG",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\equipes.PNG"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\eventos.PNG",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\eventos.PNG",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/eventos.PNG",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\eventos.PNG"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-144x144.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-144x144.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/android-icon-144x144.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\android-icon-144x144.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-192x192.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-192x192.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/android-icon-192x192.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\android-icon-192x192.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-36x36.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-36x36.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/android-icon-36x36.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\android-icon-36x36.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-48x48.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-48x48.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/android-icon-48x48.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\android-icon-48x48.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-72x72.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-72x72.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/android-icon-72x72.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\android-icon-72x72.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-96x96.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\android-icon-96x96.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/android-icon-96x96.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\android-icon-96x96.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-114x114.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-114x114.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-114x114.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-114x114.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-120x120.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-120x120.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-120x120.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-120x120.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-144x144.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-144x144.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-144x144.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-144x144.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-152x152.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-152x152.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-152x152.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-152x152.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-180x180.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-180x180.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-180x180.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-180x180.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-57x57.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-57x57.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-57x57.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-57x57.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-60x60.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-60x60.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-60x60.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-60x60.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-72x72.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-72x72.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-72x72.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-72x72.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-76x76.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-76x76.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-76x76.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-76x76.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-precomposed.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\apple-icon-precomposed.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/apple-icon-precomposed.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\apple-icon-precomposed.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\browserconfig.xml",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\browserconfig.xml",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/browserconfig.xml",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\browserconfig.xml"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\email.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\email.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/email.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\email.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\facebook.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\facebook.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/facebook.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\facebook.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon.ico",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon.ico",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/favicon.ico",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\favicon.ico"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon-16x16.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon-16x16.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/favicon-16x16.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\favicon-16x16.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon-32x32.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon-32x32.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/favicon-32x32.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\favicon-32x32.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon-96x96.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\favicon-96x96.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/favicon-96x96.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\favicon-96x96.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\instagran.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\instagran.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/instagran.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\instagran.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\manifest.json",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\manifest.json",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/manifest.json",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\manifest.json"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\miratrans.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\miratrans.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/miratrans.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\miratrans.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-144x144.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-144x144.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/ms-icon-144x144.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\ms-icon-144x144.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-150x150.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-150x150.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/ms-icon-150x150.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\ms-icon-150x150.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-310x310.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-310x310.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/ms-icon-310x310.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\ms-icon-310x310.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-70x70.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\ms-icon-70x70.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/ms-icon-70x70.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\ms-icon-70x70.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\painel5.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\painel5.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/painel5.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\painel5.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\tweeter.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\tweeter.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/tweeter.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\tweeter.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\whatsapp.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\favicons\\whatsapp.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/favicons/whatsapp.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\favicons\\whatsapp.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\foto evento.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\foto evento.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/foto evento.jpeg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\foto evento.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\fotocarrouselarrumada.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\fotocarrouselarrumada.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/fotocarrouselarrumada.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\fotocarrouselarrumada.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\fotocarrouselarrumada2.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\fotocarrouselarrumada2.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/fotocarrouselarrumada2.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\fotocarrouselarrumada2.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\googlemapevento.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\googlemapevento.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/googlemapevento.jpeg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\googlemapevento.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\icon.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\icon.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/icon.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\icon.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\imagem-sobre1.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\imagem-sobre1.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/imagem-sobre1.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\imagem-sobre1.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\imgLocal.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\imgLocal.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/imgLocal.jpeg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\imgLocal.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\imglocal1.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\imglocal1.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/imglocal1.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\imglocal1.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\logo.svg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\logo.svg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/logo.svg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\logo.svg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\logo-114x114.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\logo-114x114.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/logo-114x114.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\logo-114x114.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\logo-144x144.png",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\logo-144x144.png",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/logo-144x144.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\logo-144x144.png"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\medalha1.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\medalha1.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/medalha1.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\medalha1.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\medalha2.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\medalha2.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/medalha2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\medalha2.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\medalha3.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\medalha3.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/medalha3.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\medalha3.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel1.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel1.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel1.jpeg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel1.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel1.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel1.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel1.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel1.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel2.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel2.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel2.jpeg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel2.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel2.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel2.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel2.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel2.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel3.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel3.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel3.jpeg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel3.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel3.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel3.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel3.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel3.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel4.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel4.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel4.jpeg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel4.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel4.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel4.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel4.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel4.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel5.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel5.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel5.jpeg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel5.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel6.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel6.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel6.jpeg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel6.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel7.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel7.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel7.jpeg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel7.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel8.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel8.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel8.jpeg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel8.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel9.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\painel9.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/painel9.jpeg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\painel9.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\sobre1.jpeg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\sobre1.jpeg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/sobre1.jpeg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\sobre1.jpeg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\sobre1.jpg",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\imagens\\sobre1.jpg",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "imagens/sobre1.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\sobre1.jpg"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\js\\site.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\popper.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\dist\\popper.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery/dist/popper.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\popper.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProjetoAirSoft",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\Puc\\Github\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alex & Rilmara\\Documents\\GitHub\\pmv-ads-2021-2-e2-proj-int-t3-tapunk\\ProjetoAirSoft\\wwwroot\\",
       "BasePath": "_content/ProjetoAirSoft",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -12,7 +12,7 @@ using ProjetoAirSoft.Models;
 
 namespace ProjetoAirSoft.Controllers
 {
-    [Authorize]
+    
     public class CadastrarController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -25,7 +25,7 @@ namespace ProjetoAirSoft.Controllers
         // GET: Cadastrar
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Cadastrar.ToListAsync());
+            return Redirect("/");
         }
         [AllowAnonymous]
         public IActionResult Login()
@@ -108,6 +108,7 @@ namespace ProjetoAirSoft.Controllers
         }
 
         // GET: Cadastrar/Create
+        [AllowAnonymous]
         public IActionResult Create()
         {
             return View();

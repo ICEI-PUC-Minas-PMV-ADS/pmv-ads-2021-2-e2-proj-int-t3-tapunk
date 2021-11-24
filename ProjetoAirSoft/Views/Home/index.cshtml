@@ -97,10 +97,12 @@
           </li>
 
         <!-- lista de itens -->
-        <li class="col-xl-2 col-lg-3 col-md-12 nav-item d-flex align-items-center">
-            <a class="nav-link " asp-area="" asp-controller="Eventos" asp-action="Index">
-          Eventos </a>
+        @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="col-xl-2 col-lg-3 col-md-12 nav-item d-flex align-items-center">
+                        <a class="nav-link" asp-area="" asp-controller="Eventos" asp-action="Create">Eventos</a>
         </li>
+        }
       </ul>
       <!-- menu -->
     </section>
@@ -153,20 +155,22 @@
               <path d="M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z" />
             </svg>
             -->
-
+            <a class="nav-link " asp-area="" asp-controller="Eventos" asp-action="Create">
             <p>Criar Eventos<br>
 
             </p>
+            </a>
           </div>
         </article>
 
         <!-- banner -->
         <article class="col-md-6">
           <div class="banners-promocionais-statico-todo-br d-flex align-items-center">
-
+            <a class="nav-link " asp-area="" asp-controller="Equipes" asp-action="Create">
             <p>Adicionar Equipes<br>
 
             </p>
+            </a>
           </div>
         </article>
       </section>
