@@ -1,26 +1,27 @@
-﻿<!DOCTYPE html>
+﻿<DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Mov Airsoft</title>
+    
 
 
     <title>AirSoft</title>
 
-
-</head>
-<body>
+    <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
       <!-- header -->
-  <header class="container-fluid">
+        <header class="container-fluid">
     <!-- container -->
-    <section class="container">
+            <section class="container">
       <!-- row -->
-      <article class="row d-flex align-items-center">
+                <article class="row d-flex align-items-center">
 
         <!-- logo -->
-        <a href="./" class="col-md-2 d-flex justify-content-center">
+        <a  class="col-md-2 d-flex justify-content-center">
           <img src="./imagens/logo-144x144.png" class="img-fluid" alt="Logo da empresa - Mov Airsoft">
+
         </a>
 
         <!-- buscador -->
@@ -39,7 +40,7 @@
                         Olá, @User.Identity.Name;<a class="nav-link text-dark" asp-area="" asp-controller="Cadastrar" asp-action="Logout">Sair</a>
                         </li> 
                         <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Equipes" asp-action="Create">Equipes</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Equipes" asp-action="Index">Equipes</a>
                         </li> 
                         
                         }
@@ -168,4 +169,5 @@
 
     @await RenderSectionAsync("Scripts", required: false)
 </body>
+
 </html>

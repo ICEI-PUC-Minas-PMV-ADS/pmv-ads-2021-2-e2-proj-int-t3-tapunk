@@ -6,6 +6,6 @@
     "\\ProjetoAirSoft\\Views",
     "\\ProjetoAirSoft\\Views\\Shared"
   ],
-  "SelectedNode": "\\ProjetoAirSoft\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\ProjetoAirSoft\\Controllers\\CadastrarController.cs",
   "PreviewInSolutionExplorer": false
 }
