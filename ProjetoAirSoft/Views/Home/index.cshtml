@@ -147,105 +147,64 @@
         <!-- banner -->
         <article class="col-md-6">
           <div class="banners-promocionais-statico-12x d-flex align-items-center">
-            <!--
-            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-credit-card" fill="currentColor"
-              xmlns="http://www.w3.org/2000/svg">
-              <path fill-rule="evenodd"
-                d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z" />
-              <path d="M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z" />
-            </svg>
-            -->
             <a class="nav-link " asp-area="" asp-controller="Eventos" asp-action="Create">
-            <p>Criar Eventos<br>
-
-            </p>
+            <p>Criar Eventos</p>
             </a>
           </div>
         </article>
 
-        <!-- banner -->
         <article class="col-md-6">
           <div class="banners-promocionais-statico-todo-br d-flex align-items-center">
             <a class="nav-link " asp-area="" asp-controller="Equipes" asp-action="Create">
-            <p>Adicionar Equipes<br>
-
-            </p>
+            <p>Adicionar Equipes</p>
             </a>
           </div>
         </article>
       </section>
       <!-- end row -->
     </section>
-    <!-- end banners promocionais com 6 colunas -->
 
     <!-- container produtos -->
     <section class="container produtos">
-      <!-- title -->
       <h1 class="text-center">Ranking Nacional</h1>
-
-      <!-- listagem dos produto s -->
       <article class="row">
-
-        <!-- produtos -->
         <a  class="produtos-container col-md-3">
-          <!-- imagem do produto -->
-          <img src="../imagens/painel1.jpg" class="img-fluid" alt="Cropped rosa">
-
-          <!-- itens do produto -->
-          <article class="produtos-itens">
-            <!-- title produto -->
-            <h2>Black River Airsoft</h2>.
-            <!-- preco -->
-            <strong class="produtos-preco">
+         <img src="../imagens/painel1.jpg" class="img-fluid" alt="Black River Airsoft">
+          <article class="ranking">
+            <h3>Black River Airsoft</h3>
+            <strong class="colocacao">
+            <img src="./imagens/1lugar.png" alt="primeiro lugar">
               1º Lugar
             </strong>
           </article>
-          <!-- end itens do produto -->
         </a>
-        <!-- end produtos -->
-
-        <!-- produtos -->
-        <a  class="produtos-container col-md-3">
-          <!-- imagem do produto -->
-          <img src="../imagens/painel2.jpg" class="img-fluid" alt="Camiseta manga comprida">
-
-          <!-- itens do produto -->
-          <article class="produtos-itens">
-            <!-- title produto -->
-            <h2>Esquadrão Tatico Airsoft</h2>.
-            <!-- preco -->
-            <strong class="produtos-preco">
+        <a class="produtos-container col-md-3">
+          <img src="./imagens/painel2.jpeg" class="img-fluid" alt="Esquadrão Tatico Airsoft">
+          <article class="ranking">
+            <h2>Esquadrão Tatico Airsoft</h2>
+            <strong class="colocacao">
+              <img src="./imagens/2lugar.png" alt="segundo lugar">
               2º Lugar
             </strong>
           </article>
-          <!-- end itens do produto -->
         </a>
-        <!-- end produtos -->
-
-        <!-- produtos -->
-        <a  class="produtos-container col-md-3">
-          <!-- imagem do produto -->
-          <img src="../imagens/painel4.jpg" class="img-fluid" alt="Camiseta listrada">
-
-          <!-- itens do produto -->
-          <article class="produtos-itens">
-            <!-- title produto -->
-            <h2>Assault Squad Airsoft</h2>.
-            <!-- preco -->
-            <strong class="produtos-preco">
-              3ª lugar
+        <a class="produtos-container col-md-3">
+          <img src="./imagens/painel4.jpeg" class="img-fluid" alt="Assault Squad Airsoft">
+          <article class="ranking">
+            <h2>Assault Squad Airsoft</h2>
+            <strong class="colocacao">
+              <img src="./imagens/3lugar.png" alt="terceiro lugar">
+              3º Lugar
             </strong>
           </article>
-          <!-- end itens do produto -->
         </a>
-        <!-- end produtos -->
-
+        <!-- end produtos/equipes -->
       </article>
       <!-- listagem dos produtos -->
 
-      <div class="d-flex justify-content-center">
+@*      <div class="d-flex justify-content-center">
         <a href="./vejaMais.html" class="btn btn-warning col-md-2">VEJA MAIS</a>
-      </div>
+      </div>*@
     </section>
     <!-- end container produtos -->
   </main>
